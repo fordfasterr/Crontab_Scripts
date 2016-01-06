@@ -1,4 +1,3 @@
-bash-3.00# cat /var/tmp/root_scripts/users.sh
 #!/bin/bash
 
 #This script will count the number of logged in users and
